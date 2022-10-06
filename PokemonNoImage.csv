@@ -1,0 +1,8 @@
+"Number","Name","Evolution_Chain","isBaby","hasGenderDifference","genderRate","hasForms","forms","isForm","Types","isLegendary","isMythical","region"
+"10158","Pikachu-starter","10","false","true","4","false","","true","[electric]","false","false","kanto"
+"10160","Pikachu-world-cap","10","false","true","4","false","","true","[electric]","false","false","kanto"
+"10229","Growlithe-hisui","25","false","false","2","false","","true","[fire, rock]","false","false","kanto"
+"10230","Arcanine-hisui","25","false","false","2","false","","true","[fire, rock]","false","false","kanto"
+"10231","Voltorb-hisui","44","false","false","-1","false","","true","[electric, grass]","false","false","kanto"
+"10232","Electrode-hisui","44","false","false","-1","false","","true","[electric, grass]","false","false","kanto"
+"10159","Eevee-starter","67","false","false","1","false","","true","[normal]","false","false","kanto"
